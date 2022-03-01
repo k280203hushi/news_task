@@ -1,0 +1,23 @@
+{
+    "name": "News App",
+    "short_name": "News web app",
+    "start_url": ".",
+    "background_color": "#c095e3",
+    "theme_color": "#000000",
+    "display": "standalone",
+    "icons": [{
+        "src":"./images/logo.png",
+        "sizes": "any"
+    },
+    {
+        "src":"./images/logo.png",
+        "sizes": "700x700"
+    },
+        {
+      "src": "./images/logo192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+    ]
+}
